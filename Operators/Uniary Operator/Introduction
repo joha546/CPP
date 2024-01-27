@@ -1,0 +1,4 @@
+Unary Operators are the types of operators that require only one operand. They form various 
+operations on single operands, such as incrementing or decrementing the value by one, negating an 
+expression, or inverting a boolean’s value. Let’s understand the various unary operators with an 
+example.

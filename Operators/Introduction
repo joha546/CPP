@@ -1,0 +1,9 @@
+Operators in C++ are the special symbol-specific operations on one or more operands upon which it returns a result. There are different types of operators available in C++, which are given below:
+
+Arithmetic Operators
+Unary Operators
+Relational Operators
+Logical Operators
+Bitwise Operators
+Assignment Operators
+Misc Operators
