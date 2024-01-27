@@ -1,0 +1,2 @@
+These operators are used to perform logical operations such as OR, AND, and NOT operations. It operates on two
+ boolean values, which return true or false as a result. There are three types of Logical Operators in C++
